@@ -1,16 +1,3 @@
 {
-  "users": [
-    {
-      "id": 74869342,
-      "firstName": "Rodolfo",
-      "lastName": "Ankunding",
-      "email": "Janiya_Mann65@hotmail.com"
-    },
-    {
-      "id": 1007080,
-      "firstName": "Zora",
-      "lastName": "Kerluke",
-      "email": "Lelah.Considine50@gmail.com"
-    }
-  ]
+  "users": []
 }
